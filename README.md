@@ -8,6 +8,7 @@ Hello all, today I have a brand new Script to release, this didn't take too long
 
 # Ace Permissions:
 > LEO: `add_ace group.leo "Zenox.Duty" allow`
+
 > EMS: `add_ace group.ems "Zenox.EMs" allow`
 
 # Preview:
