@@ -1,3 +1,5 @@
+# Discontinued
+
 # Zenox Development | Duty Script
 
 Hello all, today I have a brand new Script to release, this didn't take too long as it's only basic. All Dependencies and Information will be below.
